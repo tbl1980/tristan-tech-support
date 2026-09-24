@@ -1,4 +1,4 @@
-# Tristan Lake IT Services
+# DataLake Support
 
 A responsive static website with services and pricing, About, Reviews, FAQ, and Contact pages.
 
@@ -42,3 +42,7 @@ The Reviews page emails submissions to Tristan through FormSubmit with the subje
 To publish an approved submission, add its public fields to the array in reviews-data.js: name (text), rating (number 1–5), service (text), and text (the original review). Never add the email or other private details. Keep negative as well as positive feedback when relevant and genuine. Commit the updated file to GitHub; once GitHub Pages redeploys, everyone sees the review. You can also ask Codex to publish the approved review for you.
 
 The initial approved list is empty. Review text is rendered as plain text, never interpreted as HTML. Submissions are stored in the recipient inbox; the approved public data is stored in GitHub, not browser storage.
+
+## Brand identity
+
+DataLake Support is Tristan Lake’s personal IT support brand. Tagline: **Calm waters. Clear solutions.** The name connects technology (Data) with Tristan’s surname (Lake). The circuit-and-wave mark in `favicon.svg` is also used in each page header. Deep navy, lake teal, and pale mint carry the identity across the site. Keep the personal voice and accurate service scope when editing copy.
